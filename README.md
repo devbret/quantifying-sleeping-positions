@@ -18,7 +18,7 @@ Initially an alternative approach was explored using an AMG8833 infrared thermal
 
 FSRs provide direct measurements of physical weight distribution, making them less susceptible to inaccuracies introduced by thermal metrics. The shift also simplified hardware design. Beyond technical feasibility, pressure sensing aligns more closely with the project’s core objective of capturing interactions between my body and bed.
 
-### Data Pipeline and Future Visualization
+### Data Pipeline And Visualization
 
 A Python script will continuously query the FSR pads via GPIO pins at regular intervals, capturing pressure readings across all eight sensors. These raw values are then ingested by a Flask API. Collected data is stored in JSON format, enabling integration with custom-built analytics tools.
 
