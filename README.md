@@ -25,3 +25,25 @@ A Python script will continuously query the FSR pads via GPIO pins at regular in
 Visualization will play a critical role in translating raw pressure readings into insights. Using D3.js and JavaScript, I plan to develop interactive web graphics to represent body weight distribution over time.
 
 The ultimate goal is to collect data over a 30 to 90 day period, allowing me to identify recurring patterns in nocturnal behavior which might correlate with factors like fatigue, discomfort or sleep disorders. This long-term study will not only deepen my understanding of personal sleep habits but also serve as a foundation for further research questions
+
+## Other Considerations
+
+Below you will find information not covered in the sections above. Including the abilities this repo is intended to demonstrate. As well as an overview of the license this code is made available with. And a way to contact the maintainer with questions, suggestions and collaboration opportunities.
+
+### Abilities Demonstrated
+
+This project repo is intended to demonstrate an ability to do the following:
+
+1. Measure sleep through body weight on the bed
+
+2. Work out sleeping position from pressure patterns
+
+3. Show the data in interactive D3.js web charts
+
+4. Run a 30 - 90 day study of my own sleep
+
+### License Information
+
+This repository is distributed under the MIT License. You are free to use, copy, modify, merge, publish, distribute, sublicense and sell copies of this software, including as part of proprietary or commercial work. The single condition is the copyright and permission notices contained in the LICENSE file must be included with any copy or substantial portion of the software that you redistribute. The software is provided "as is", without warranty of any kind, and the copyright holder is not liable for any claim or damages arising from its use.
+
+If you have any questions or would like to collaborate, please reach out either on GitHub or via [my website](https://bretbernhoft.com/).
